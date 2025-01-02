@@ -1,7 +1,7 @@
 # Auzmor-Hire
 Deployment of a web application in a cloud-based Kubernetes solution
 
-Create IAC Template using terraform for provisiong infrastructure on AWS for web application  
+Create IAC Template using terraform for provisiong infrastructure on AWS for web application  <br>
 USE IAC.tf File
 Then Configure Kubernetes.yml file along with service.yaml  
 For monitoring soution configuration  -- use prometheus.yaml file
